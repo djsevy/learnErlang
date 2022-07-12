@@ -16,7 +16,7 @@ The reason I wrote this program was to test what I learned about Kotlin during a
 
 # Useful Websites
 
-* [Udemy]([(https://www.udemy.com/)
+* [Udemy](https://www.udemy.com/)
 * [Youtube](https://www.youtube.com/watch?v=IEhwc2q1zG4)
 
 # Future Work
