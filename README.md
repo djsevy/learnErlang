@@ -9,7 +9,7 @@ The reason I wrote this program was to test what I learned about Kotlin during a
 
 # Development Environment
 
-- I used IntelliJ as the IDE for Kotlin
+- I used IntelliJ as the IDE for erlang
 - I used youtube as a means to get an overview of the language
 - I used Udemdy to gain clarification on aspect of the language that confused me.
 
